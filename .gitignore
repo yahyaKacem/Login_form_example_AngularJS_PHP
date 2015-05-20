@@ -1,0 +1,15 @@
+## files to ignore
+.editorconfig
+### sass dirs
+.sass-cache/
+### The next is installed based on the versions listed in
+### `package.json` when you do `npm install` in this directory
+node_modules/
+### The next is installed based on the versions listed in
+### `bower.json` when you do `bower install` in this directory
+src/libs/
+### the next are compiled from the source files after running this
+### commands `gulp build` in this directory
+dist/
+docs/
+build/
